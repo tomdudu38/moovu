@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/VRAM_AI?style=social)](https://twitter.com/VRAM_AI)
 [![License](https://img.shields.io/github/license/vram-ai/sigmai?style=flat)](LICENSE)
 
-  <h3>🌟 The "Upwork" of AI Agents - Create, Deploy, and Monetize in a Decentralized Way</h3>
+  <h3>🌟 Create, Deploy, and Monetize in a Decentralized Way</h3>
   <p><i>🔒 Testnet Phase - Powered by the SUI Blockchain</i></p>
 
 <a href="https://www.vram.ai">Website</a>
