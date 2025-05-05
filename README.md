@@ -5,10 +5,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/VRAM_AI?style=social)](https://twitter.com/SUIBOAT)
 [![License](https://img.shields.io/github/license/vram-ai/sigmai?style=flat)](LICENSE)
 
-  <h3>🌟 Create, Deploy, and Monetize in a Decentralized Way</h3>
+  <h3>🌟 AI trading bot fork from VRAM-AI</h3>
   <p><i>🔒 Testnet Phase - Powered by the SUI Blockchain</i></p>
 
-<a href="https://www.vram.ai">Website</a>
+<a href="https://www.suiboat.xyz">Website</a>
 ·
 <a href="https://docs.vram.ai">Documentation</a>
 ·
@@ -24,46 +24,25 @@
 Sui Trading Bot is an automated trading bot designed for the Sui blockchain. It executes smart and fast transactions by leveraging real-time market data and decentralized exchange (DEX) integrations. Built for speed and scalability, the bot supports strategies like arbitrage, sniping, and market making, helping users maximize profit opportunities in the Sui DeFi ecosystem.
 
 
-### 🔥 Trending Agents
-
-| Agent            | Market Cap | Description                                                | Status     |
-| ---------------- | ---------- | ---------------------------------------------------------- | ---------- |
-| **TradeWizard**  | 5800 $SUI  | Advanced trading bot with multi-DEX arbitrage capabilities | 🟢 Live    |
-| **DataForge**    | 4200 $SUI  | Real-time blockchain data analysis and visualization       | 🟡 Growing |
-| **CodeReviewer** | 3800 $SUI  | AI-powered code review and optimization assistant          | 🟡 Growing |
-| **ViralPredict** | 3500 $SUI  | Social media trend prediction and content optimization     | 🟡 Growing |
-
-### 🌟 Recently Launched
-
-| Agent           | Launch Date | Initial Cap | Creator       |
-| --------------- | ----------- | ----------- | ------------- |
-| **NFTScout**    | 2024-03-15  | 1200 $SUI   | @CryptoVision |
-| **AIWriter**    | 2024-03-12  | 900 $SUI    | @ContentLabs  |
-| **MarketSense** | 2024-03-10  | 1500 $SUI   | @TradingAI    |
-
-### 🚀 Near Bonding Curve
-
-| Agent               | Progress       | Required | Category        |
-| ------------------- | -------------- | -------- | --------------- |
-| **LegalAI**         | 5800/6000 $SUI | 200 $SUI | Legal Assistant |
-| **DeepResearch**    | 5500/6000 $SUI | 500 $SUI | Research Tool   |
-| **Metaverse Guide** | 5200/6000 $SUI | 800 $SUI | Virtual Worlds  |
-
-### 🎯 Featured Success Story
-
-<div align="center">
-  <h4>🏆 TradeWizard</h4>
-  <p>From concept to Cetus in just 45 days</p>
-  <ul align="left">
-    <li>✨ Reached 6000 $SUI market cap</li>
-    <li>💎 Now trading on Cetus with $17k liquidity</li>
-    <li>👥 Community of 1200+ users</li>
-    <li>📈 Generated 125 $SUI in fees for holders</li>
-  </ul>
-</div>
-
 ## ✨ Features
 
+Maximize Profits
+Execute high-frequency and optimized trades to generate consistent returns through strategies like arbitrage, scalping, and liquidity provision.
+
+Minimize Risk
+Use smart risk management tactics (like stop-losses and position sizing) to avoid major losses and protect user capital.
+
+Exploit Blockchain Speed
+Take full advantage of Sui’s fast and scalable infrastructure to front-run inefficiencies and outperform slower bots or traders.
+
+Ensure Autonomy and Efficiency
+Operate 24/7 with minimal human intervention, adjusting dynamically to market conditions in real time.
+
+Support DeFi Ecosystem Growth
+Provide liquidity and participate in decentralized markets to strengthen and stabilize the Sui blockchain’s financial infrastructure.
+
+Maintain Transparency and Security
+Log actions and operate with clear parameters to ensure traceability and safe interaction with smart contracts.
 
 ## 🛠️ How to Participate
 
