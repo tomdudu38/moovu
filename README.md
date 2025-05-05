@@ -18,19 +18,11 @@
 
 </div>
 
-## 🌍 README Translations
-
-- 🇫🇷 [Français](./translations/README.fr.md)
-- 🇬🇧 [English](./README.md)
-- 🇪🇸 [Español](./translations/README.es.md)
-- 🇷🇺 [Русский](./translations/README.ru.md)
-- 🇩🇪 [Deutsch](./translations/README.de.md)
 
 ## 🌟 Vision
 
-VRAM AI is revolutionizing AI agent development by creating a truly decentralized ecosystem. The AI explosion has revealed limitations: centralized models, closed systems, and superficial Web3 projects. VRAM changes the game by building a truly decentralized and community-driven AI development protocol.
+Sui Trading Bot is an automated trading bot designed for the Sui blockchain. It executes smart and fast transactions by leveraging real-time market data and decentralized exchange (DEX) integrations. Built for speed and scalability, the bot supports strategies like arbitrage, sniping, and market making, helping users maximize profit opportunities in the Sui DeFi ecosystem.
 
-## 🤖 Featured VRAM Agents
 
 ### 🔥 Trending Agents
 
@@ -72,48 +64,6 @@ VRAM AI is revolutionizing AI agent development by creating a truly decentralize
 
 ## ✨ Features
 
-### 🔗 Social AI Development
-
-- AI agents built and improved by the community
-- $VRAM incentives for contributors
-- Participatory governance over model evolution
-
-### ⚙️ AI Agent Framework
-
-- Deployment of agents for finance, trading, and automation
-- Interconnected agents for complex tasks
-- Scalable open-source framework
-
-<img src="./VRAM.AI design KIT/DESIGNS READY TO USE/ai-integration.png" alt="VRAM AI Logo"/>
-
-### 💎 Launch Platform
-
-- Innovative tokenomics: each agent = a unique token
-- 5% rewards for developers/DAO
-- Automatic liquidity on Cetus at 6000 $SUI
-- Verified and secure smart contracts
-
-## 💰 Tokenomics & $VRAM Utility
-
-<img src="./VRAM.AI design KIT/DESIGNS READY TO USE/vram=ai-power.png" alt="VRAM AI Logo"/>
-
-### Access & Deployment
-
-- Deploy agents on the framework
-- Access premium tools
-- Participate in governance
-
-### Monetization & Staking
-
-- Share revenue from agent usage
-- Stake to boost capabilities
-- Rewards for active contributors
-
-### Ecosystem Stability
-
-- Deflationary model
-- Sustainable funding mechanisms
-- Support for cross-chain integrations
 
 ## 🛠️ How to Participate
 
