@@ -48,15 +48,6 @@ Log actions and operate with clear parameters to ensure traceability and safe in
 
 > Want to share your hosted VRAM agent? Add it to our [`FORKS.md`](FORKS.md) registry!
 
-### 📝 How to Add Your Agent
-
-1. Fork this repository
-2. Add your agent to [`FORKS.md`](FORKS.md)
-3. Submit a Pull Request
-4. After validation, your agent will be listed!
-
-[➡️ View Community Agents](FORKS.md)
-
 ## 🌐 Join the Ecosystem
 
 ### Official Links
