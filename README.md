@@ -8,7 +8,7 @@
   <h3>🌟 AI trading bot fork from VRAM-AI</h3>
   <p><i>🔒 Testnet Phase - Powered by the SUI Blockchain</i></p>
 
-<a href="https://www.suiboat.xyz">Website</a>
+<a href="https://testnet.vram.ai/trading-view/0x0d02663786223238fc72b7ebfab0bff4632b17bff364d8bb0f27187ef9878759">Website</a>
 ·
 <a href="https://docs.vram.ai">Documentation</a>
 ·
