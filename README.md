@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./VRAM.AI design KIT/VRAM.AI TEXT/vram-unified-gradient.svg" alt="VRAM AI Logo" width="400"/>
   
-[![Stars](https://img.shields.io/github/stars/tomdudu38/sigmai?style=social)]([https://github.com/VRAM-AI/agent-forge](https://github.com/tomdudu38/suiboat)
-[![Twitter Follow](https://img.shields.io/twitter/follow/VRAM_AI?style=social)](https://twitter.com/SUIBOAT)
 [![License](https://img.shields.io/github/license/vram-ai/sigmai?style=flat)](LICENSE)
 
   <h3>🌟 AI trading bot fork from VRAM-AI</h3>
