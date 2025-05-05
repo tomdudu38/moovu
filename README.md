@@ -44,69 +44,6 @@ Provide liquidity and participate in decentralized markets to strengthen and sta
 Maintain Transparency and Security
 Log actions and operate with clear parameters to ensure traceability and safe interaction with smart contracts.
 
-## 🛠️ How to Participate
-
-<img src="./VRAM.AI design KIT/DESIGNS READY TO USE/create-build.png" alt="VRAM AI create build"/>
-
-### For Investors
-
-1. Select an AI agent project
-2. Buy the token (bonding curve)
-3. Trade or hold your tokens
-4. Cetus liquidity at 6000 $SUI (~$17k)
-
-### For Developers
-
-1. Clone the framework
-2. Create your agent
-3. Launch via the platform
-4. Earn rewards
-
-## 📱 Testnet Program
-
-### tVRAM Distribution
-
-- Test tokens on the SUI network
-- Guaranteed participation in the VRAM airdrop
-- Reward multipliers
-
-### Participation Levels
-
-1. **tVRAM Holders**
-
-   - Basic tier
-   - Guaranteed allocation
-
-2. **Active Users**
-
-   - Higher multiplier
-   - Usage-based rewards
-
-3. **Combined Participation**
-   - Maximum rewards
-   - Multiplier effect
-
-## 🔧 Technical Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/vram-ai/sigmai.git
-
-# Install dependencies
-pnpm install
-
-# Start the development server
-pnpm start
-
-# Configuration
-cp .env.example .env
-
-Edit .env with your keys
-
-# Start in development mode
-pnpm dev
-```
-
 ## 🌐 Community Hosted Agents
 
 > Want to share your hosted VRAM agent? Add it to our [`FORKS.md`](FORKS.md) registry!
