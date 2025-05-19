@@ -3,7 +3,7 @@
   
 [![License](https://img.shields.io/github/license/vram-ai/sigmai?style=flat)](LICENSE)
 
-  <h3>🌟 AI trading bot fork from VRAM-AI</h3>
+  <h3>🌟Travel AI from VRAM-AI</h3>
   <p><i>🔒 Testnet Phase - Powered by the SUI Blockchain</i></p>
 
 <a href="https://testnet.vram.ai/trading-view/0x0d02663786223238fc72b7ebfab0bff4632b17bff364d8bb0f27187ef9878759">Website</a>
