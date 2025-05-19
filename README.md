@@ -19,28 +19,25 @@
 
 ## 🌟 Vision
 
-Sui Trading Bot is an automated trading bot designed for the Sui blockchain. It executes smart and fast transactions by leveraging real-time market data and decentralized exchange (DEX) integrations. Built for speed and scalability, the bot supports strategies like arbitrage, sniping, and market making, helping users maximize profit opportunities in the Sui DeFi ecosystem.
+This AI-powered agent is designed to search and find the best available flights and hotels by integrating with various travel APIs. It helps users compare options, optimize prices, and plan their trips efficiently and effortlessly.
 
 
 ## ✨ Features
 
-Maximize Profits
-Execute high-frequency and optimized trades to generate consistent returns through strategies like arbitrage, scalping, and liquidity provision.
+Find the Best Travel Deals
+Automatically search for the best available flights and hotel offers by connecting to multiple travel APIs in real time.
 
-Minimize Risk
-Use smart risk management tactics (like stop-losses and position sizing) to avoid major losses and protect user capital.
+Personalized Recommendations
+Provide users with travel suggestions tailored to their preferences, budget, and schedule.
 
-Exploit Blockchain Speed
-Take full advantage of Sui’s fast and scalable infrastructure to front-run inefficiencies and outperform slower bots or traders.
+Optimize Time and Budget
+Help users save time and money by comparing hundreds of options instantly and presenting the most cost-effective combinations.
 
-Ensure Autonomy and Efficiency
-Operate 24/7 with minimal human intervention, adjusting dynamically to market conditions in real time.
+Seamless Trip Planning
+Simplify the travel planning process by offering an all-in-one solution that integrates flights, accommodations, and user preferences.
 
-Support DeFi Ecosystem Growth
-Provide liquidity and participate in decentralized markets to strengthen and stabilize the Sui blockchain’s financial infrastructure.
-
-Maintain Transparency and Security
-Log actions and operate with clear parameters to ensure traceability and safe interaction with smart contracts.
+Real-Time Availability
+Ensure that all suggestions are based on live data to avoid outdated prices or unavailable bookings.
 
 ## 🌐 Community Hosted Agents
 
